@@ -9,7 +9,7 @@ Courses completed:
 - Google Data Analytics Professional Certification on Coursera
 - Meta Marketing Analtyics Professional Certification on Coursera
 - Azubi Africa Business Analytics Training
-
+- Udacity Nanodegree Data Analyst Program
 
 <!---
 Techsense23/Techsense23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
